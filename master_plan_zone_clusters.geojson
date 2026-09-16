@@ -960,7 +960,7 @@
         "cluster_radius_km": 2.43,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -986,7 +986,7 @@
         "cluster_radius_km": 5.385,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 16
       }
     },
@@ -1012,7 +1012,7 @@
         "cluster_radius_km": 2.497,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1038,7 +1038,7 @@
         "cluster_radius_km": 3.247,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1064,7 +1064,7 @@
         "cluster_radius_km": 2.686,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1090,7 +1090,7 @@
         "cluster_radius_km": 3.311,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1116,7 +1116,7 @@
         "cluster_radius_km": 3.929,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1142,7 +1142,7 @@
         "cluster_radius_km": 2.854,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1168,7 +1168,7 @@
         "cluster_radius_km": 2.433,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1194,7 +1194,7 @@
         "cluster_radius_km": 2.181,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1220,7 +1220,7 @@
         "cluster_radius_km": 1.989,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1246,7 +1246,7 @@
         "cluster_radius_km": 2.826,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1272,7 +1272,7 @@
         "cluster_radius_km": 4.059,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1298,7 +1298,7 @@
         "cluster_radius_km": 2.524,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1324,7 +1324,7 @@
         "cluster_radius_km": 2.295,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },
@@ -1350,7 +1350,7 @@
         "cluster_radius_km": 3.403,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#facc15",
+        "marker-color": "#3b82f6",
         "marker-size": 10
       }
     },

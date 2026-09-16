@@ -258,7 +258,7 @@
         "cluster_radius_km": 4.192,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -284,7 +284,7 @@
         "cluster_radius_km": 3.769,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -310,7 +310,7 @@
         "cluster_radius_km": 5.405,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -336,7 +336,7 @@
         "cluster_radius_km": 5.216,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -362,7 +362,7 @@
         "cluster_radius_km": 3.935,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -388,7 +388,7 @@
         "cluster_radius_km": 4.286,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -414,7 +414,7 @@
         "cluster_radius_km": 7.157,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -492,7 +492,7 @@
         "cluster_radius_km": 4.881,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -518,7 +518,7 @@
         "cluster_radius_km": 5.517,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -544,7 +544,7 @@
         "cluster_radius_km": 3.611,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },
@@ -570,7 +570,7 @@
         "cluster_radius_km": 3.703,
         "eps_km": 3.0,
         "min_samples": 5,
-        "marker-color": "#b91c1c",
+        "marker-color": "#f97316",
         "marker-size": 16
       }
     },

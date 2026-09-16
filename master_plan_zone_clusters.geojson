@@ -1,0 +1,1957 @@
+{
+  "type": "FeatureCollection",
+  "name": "Ganje zone density clusters",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "C001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.398732,
+          35.725291
+        ]
+      },
+      "properties": {
+        "name": "C001",
+        "cluster_id": "C001",
+        "density_rank": 1,
+        "zone_count": 432,
+        "core_zone_count": 419,
+        "border_zone_count": 13,
+        "mean_zones_within_eps": 10.91,
+        "max_zones_within_eps": 20,
+        "cluster_radius_km": 21.932,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.524601,
+          29.608336
+        ]
+      },
+      "properties": {
+        "name": "C002",
+        "cluster_id": "C002",
+        "density_rank": 2,
+        "zone_count": 69,
+        "core_zone_count": 54,
+        "border_zone_count": 15,
+        "mean_zones_within_eps": 7.17,
+        "max_zones_within_eps": 14,
+        "cluster_radius_km": 9.158,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.969694,
+          35.82816
+        ]
+      },
+      "properties": {
+        "name": "C003",
+        "cluster_id": "C003",
+        "density_rank": 3,
+        "zone_count": 64,
+        "core_zone_count": 54,
+        "border_zone_count": 10,
+        "mean_zones_within_eps": 7.84,
+        "max_zones_within_eps": 13,
+        "cluster_radius_km": 8.612,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.320612,
+          38.06426
+        ]
+      },
+      "properties": {
+        "name": "C004",
+        "cluster_id": "C004",
+        "density_rank": 4,
+        "zone_count": 57,
+        "core_zone_count": 52,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 7.58,
+        "max_zones_within_eps": 13,
+        "cluster_radius_km": 8.258,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.442052,
+          36.838473
+        ]
+      },
+      "properties": {
+        "name": "C005",
+        "cluster_id": "C005",
+        "density_rank": 5,
+        "zone_count": 18,
+        "core_zone_count": 14,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 7.5,
+        "max_zones_within_eps": 12,
+        "cluster_radius_km": 3.725,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.008047,
+          36.292528
+        ]
+      },
+      "properties": {
+        "name": "C006",
+        "cluster_id": "C006",
+        "density_rank": 6,
+        "zone_count": 23,
+        "core_zone_count": 19,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 6.91,
+        "max_zones_within_eps": 12,
+        "cluster_radius_km": 3.769,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.875384,
+          34.639149
+        ]
+      },
+      "properties": {
+        "name": "C007",
+        "cluster_id": "C007",
+        "density_rank": 7,
+        "zone_count": 34,
+        "core_zone_count": 26,
+        "border_zone_count": 8,
+        "mean_zones_within_eps": 6.79,
+        "max_zones_within_eps": 12,
+        "cluster_radius_km": 5.982,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#b91c1c",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.590446,
+          37.275627
+        ]
+      },
+      "properties": {
+        "name": "C008",
+        "cluster_id": "C008",
+        "density_rank": 8,
+        "zone_count": 33,
+        "core_zone_count": 32,
+        "border_zone_count": 1,
+        "mean_zones_within_eps": 7.36,
+        "max_zones_within_eps": 11,
+        "cluster_radius_km": 4.162,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.056608,
+          37.543008
+        ]
+      },
+      "properties": {
+        "name": "C009",
+        "cluster_id": "C009",
+        "density_rank": 9,
+        "zone_count": 33,
+        "core_zone_count": 24,
+        "border_zone_count": 9,
+        "mean_zones_within_eps": 6.48,
+        "max_zones_within_eps": 11,
+        "cluster_radius_km": 5.132,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.556715,
+          36.319703
+        ]
+      },
+      "properties": {
+        "name": "C010",
+        "cluster_id": "C010",
+        "density_rank": 10,
+        "zone_count": 79,
+        "core_zone_count": 63,
+        "border_zone_count": 16,
+        "mean_zones_within_eps": 6.11,
+        "max_zones_within_eps": 11,
+        "cluster_radius_km": 10.321,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.464085,
+          29.682234
+        ]
+      },
+      "properties": {
+        "name": "C011",
+        "cluster_id": "C011",
+        "density_rank": 11,
+        "zone_count": 11,
+        "core_zone_count": 10,
+        "border_zone_count": 1,
+        "mean_zones_within_eps": 7.55,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 2.589,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.999442,
+          35.310347
+        ]
+      },
+      "properties": {
+        "name": "C012",
+        "cluster_id": "C012",
+        "density_rank": 12,
+        "zone_count": 15,
+        "core_zone_count": 13,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 6.67,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 3.123,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.324301,
+          27.205364
+        ]
+      },
+      "properties": {
+        "name": "C013",
+        "cluster_id": "C013",
+        "density_rank": 13,
+        "zone_count": 19,
+        "core_zone_count": 16,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 6.47,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 5.13,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6984,
+          34.094426
+        ]
+      },
+      "properties": {
+        "name": "C014",
+        "cluster_id": "C014",
+        "density_rank": 14,
+        "zone_count": 25,
+        "core_zone_count": 18,
+        "border_zone_count": 7,
+        "mean_zones_within_eps": 6.44,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 4.192,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.676137,
+          32.670623
+        ]
+      },
+      "properties": {
+        "name": "C015",
+        "cluster_id": "C015",
+        "density_rank": 15,
+        "zone_count": 57,
+        "core_zone_count": 46,
+        "border_zone_count": 11,
+        "mean_zones_within_eps": 6.33,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 7.061,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.295082,
+          38.240385
+        ]
+      },
+      "properties": {
+        "name": "C016",
+        "cluster_id": "C016",
+        "density_rank": 16,
+        "zone_count": 24,
+        "core_zone_count": 19,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 5.96,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 4.01,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.088586,
+          34.341499
+        ]
+      },
+      "properties": {
+        "name": "C017",
+        "cluster_id": "C017",
+        "density_rank": 17,
+        "zone_count": 32,
+        "core_zone_count": 26,
+        "border_zone_count": 6,
+        "mean_zones_within_eps": 5.62,
+        "max_zones_within_eps": 10,
+        "cluster_radius_km": 7.577,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.399187,
+          32.486623
+        ]
+      },
+      "properties": {
+        "name": "C018",
+        "cluster_id": "C018",
+        "density_rank": 18,
+        "zone_count": 10,
+        "core_zone_count": 8,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 6.8,
+        "max_zones_within_eps": 9,
+        "cluster_radius_km": 2.149,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.681886,
+          36.549481
+        ]
+      },
+      "properties": {
+        "name": "C019",
+        "cluster_id": "C019",
+        "density_rank": 19,
+        "zone_count": 12,
+        "core_zone_count": 10,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 6.08,
+        "max_zones_within_eps": 9,
+        "cluster_radius_km": 2.423,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.514047,
+          34.792978
+        ]
+      },
+      "properties": {
+        "name": "C020",
+        "cluster_id": "C020",
+        "density_rank": 20,
+        "zone_count": 16,
+        "core_zone_count": 12,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 5.81,
+        "max_zones_within_eps": 9,
+        "cluster_radius_km": 3.425,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.360444,
+          33.496997
+        ]
+      },
+      "properties": {
+        "name": "C021",
+        "cluster_id": "C021",
+        "density_rank": 21,
+        "zone_count": 11,
+        "core_zone_count": 10,
+        "border_zone_count": 1,
+        "mean_zones_within_eps": 5.73,
+        "max_zones_within_eps": 9,
+        "cluster_radius_km": 3.783,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#f97316",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.748529,
+          33.905548
+        ]
+      },
+      "properties": {
+        "name": "C022",
+        "cluster_id": "C022",
+        "density_rank": 22,
+        "zone_count": 13,
+        "core_zone_count": 9,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 5.62,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 3.562,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.385046,
+          35.578383
+        ]
+      },
+      "properties": {
+        "name": "C023",
+        "cluster_id": "C023",
+        "density_rank": 23,
+        "zone_count": 10,
+        "core_zone_count": 7,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 5.6,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 2.355,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.940674,
+          35.479514
+        ]
+      },
+      "properties": {
+        "name": "C024",
+        "cluster_id": "C024",
+        "density_rank": 24,
+        "zone_count": 12,
+        "core_zone_count": 9,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 5.42,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 3.28,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.797885,
+          36.207767
+        ]
+      },
+      "properties": {
+        "name": "C025",
+        "cluster_id": "C025",
+        "density_rank": 25,
+        "zone_count": 9,
+        "core_zone_count": 6,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 5.33,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 2.607,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.490467,
+          36.678203
+        ]
+      },
+      "properties": {
+        "name": "C026",
+        "cluster_id": "C026",
+        "density_rank": 26,
+        "zone_count": 13,
+        "core_zone_count": 8,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 5.31,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 2.961,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.060494,
+          36.563959
+        ]
+      },
+      "properties": {
+        "name": "C027",
+        "cluster_id": "C027",
+        "density_rank": 27,
+        "zone_count": 13,
+        "core_zone_count": 9,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 5.15,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 2.935,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.217192,
+          32.86307
+        ]
+      },
+      "properties": {
+        "name": "C028",
+        "cluster_id": "C028",
+        "density_rank": 28,
+        "zone_count": 11,
+        "core_zone_count": 6,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 4.64,
+        "max_zones_within_eps": 8,
+        "cluster_radius_km": 3.266,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.247891,
+          37.390964
+        ]
+      },
+      "properties": {
+        "name": "C029",
+        "cluster_id": "C029",
+        "density_rank": 29,
+        "zone_count": 10,
+        "core_zone_count": 7,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 5.4,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 2.377,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.064185,
+          30.279585
+        ]
+      },
+      "properties": {
+        "name": "C030",
+        "cluster_id": "C030",
+        "density_rank": 30,
+        "zone_count": 28,
+        "core_zone_count": 18,
+        "border_zone_count": 10,
+        "mean_zones_within_eps": 5.14,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 5.13,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.819612,
+          35.741566
+        ]
+      },
+      "properties": {
+        "name": "C031",
+        "cluster_id": "C031",
+        "density_rank": 31,
+        "zone_count": 8,
+        "core_zone_count": 6,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 5.12,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 2.391,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.001565,
+          35.706513
+        ]
+      },
+      "properties": {
+        "name": "C032",
+        "cluster_id": "C032",
+        "density_rank": 32,
+        "zone_count": 29,
+        "core_zone_count": 19,
+        "border_zone_count": 10,
+        "mean_zones_within_eps": 5.0,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 5.447,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.562158,
+          28.498053
+        ]
+      },
+      "properties": {
+        "name": "C033",
+        "cluster_id": "C033",
+        "density_rank": 33,
+        "zone_count": 8,
+        "core_zone_count": 5,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 5.0,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 2.497,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.370267,
+          31.840312
+        ]
+      },
+      "properties": {
+        "name": "C034",
+        "cluster_id": "C034",
+        "density_rank": 34,
+        "zone_count": 11,
+        "core_zone_count": 6,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 4.82,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 3.233,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.860456,
+          29.481529
+        ]
+      },
+      "properties": {
+        "name": "C035",
+        "cluster_id": "C035",
+        "density_rank": 35,
+        "zone_count": 14,
+        "core_zone_count": 8,
+        "border_zone_count": 6,
+        "mean_zones_within_eps": 4.79,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 3.801,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.656531,
+          36.917803
+        ]
+      },
+      "properties": {
+        "name": "C036",
+        "cluster_id": "C036",
+        "density_rank": 36,
+        "zone_count": 9,
+        "core_zone_count": 4,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 4.78,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 2.926,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.178917,
+          37.24539
+        ]
+      },
+      "properties": {
+        "name": "C037",
+        "cluster_id": "C037",
+        "density_rank": 37,
+        "zone_count": 9,
+        "core_zone_count": 5,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 4.78,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 2.034,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.353229,
+          31.888148
+        ]
+      },
+      "properties": {
+        "name": "C038",
+        "cluster_id": "C038",
+        "density_rank": 38,
+        "zone_count": 16,
+        "core_zone_count": 9,
+        "border_zone_count": 7,
+        "mean_zones_within_eps": 4.5,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 3.63,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.693238,
+          31.298794
+        ]
+      },
+      "properties": {
+        "name": "C039",
+        "cluster_id": "C039",
+        "density_rank": 39,
+        "zone_count": 9,
+        "core_zone_count": 5,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 4.33,
+        "max_zones_within_eps": 7,
+        "cluster_radius_km": 2.894,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#facc15",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.299952,
+          30.334491
+        ]
+      },
+      "properties": {
+        "name": "C040",
+        "cluster_id": "C040",
+        "density_rank": 40,
+        "zone_count": 7,
+        "core_zone_count": 6,
+        "border_zone_count": 1,
+        "mean_zones_within_eps": 5.0,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 2.433,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.630041,
+          31.297605
+        ]
+      },
+      "properties": {
+        "name": "C041",
+        "cluster_id": "C041",
+        "density_rank": 41,
+        "zone_count": 10,
+        "core_zone_count": 7,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.9,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 3.77,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.005743,
+          37.204839
+        ]
+      },
+      "properties": {
+        "name": "C042",
+        "cluster_id": "C042",
+        "density_rank": 42,
+        "zone_count": 7,
+        "core_zone_count": 4,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.71,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 1.989,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.449243,
+          37.473685
+        ]
+      },
+      "properties": {
+        "name": "C043",
+        "cluster_id": "C043",
+        "density_rank": 43,
+        "zone_count": 7,
+        "core_zone_count": 5,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 4.71,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 2.638,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.73008,
+          36.772014
+        ]
+      },
+      "properties": {
+        "name": "C044",
+        "cluster_id": "C044",
+        "density_rank": 44,
+        "zone_count": 6,
+        "core_zone_count": 4,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 4.67,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 1.624,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.652425,
+          36.698442
+        ]
+      },
+      "properties": {
+        "name": "C045",
+        "cluster_id": "C045",
+        "density_rank": 45,
+        "zone_count": 9,
+        "core_zone_count": 6,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.56,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 2.795,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.682032,
+          29.44237
+        ]
+      },
+      "properties": {
+        "name": "C046",
+        "cluster_id": "C046",
+        "density_rank": 46,
+        "zone_count": 8,
+        "core_zone_count": 5,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.5,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 2.43,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.839757,
+          36.465248
+        ]
+      },
+      "properties": {
+        "name": "C047",
+        "cluster_id": "C047",
+        "density_rank": 47,
+        "zone_count": 9,
+        "core_zone_count": 4,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 4.33,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 3.069,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.716354,
+          37.428064
+        ]
+      },
+      "properties": {
+        "name": "C048",
+        "cluster_id": "C048",
+        "density_rank": 48,
+        "zone_count": 6,
+        "core_zone_count": 3,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.33,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 1.884,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.059062,
+          37.344537
+        ]
+      },
+      "properties": {
+        "name": "C049",
+        "cluster_id": "C049",
+        "density_rank": 49,
+        "zone_count": 6,
+        "core_zone_count": 2,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 4.0,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 1.89,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.988921,
+          30.40348
+        ]
+      },
+      "properties": {
+        "name": "C050",
+        "cluster_id": "C050",
+        "density_rank": 50,
+        "zone_count": 7,
+        "core_zone_count": 2,
+        "border_zone_count": 5,
+        "mean_zones_within_eps": 3.57,
+        "max_zones_within_eps": 6,
+        "cluster_radius_km": 2.197,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.352168,
+          36.462114
+        ]
+      },
+      "properties": {
+        "name": "C051",
+        "cluster_id": "C051",
+        "density_rank": 51,
+        "zone_count": 6,
+        "core_zone_count": 4,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 4.5,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 2.341,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.865584,
+          35.785578
+        ]
+      },
+      "properties": {
+        "name": "C052",
+        "cluster_id": "C052",
+        "density_rank": 52,
+        "zone_count": 4,
+        "core_zone_count": 2,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 4.5,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 0.997,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.871718,
+          32.322149
+        ]
+      },
+      "properties": {
+        "name": "C053",
+        "cluster_id": "C053",
+        "density_rank": 53,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.4,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.439,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.619779,
+          32.616111
+        ]
+      },
+      "properties": {
+        "name": "C054",
+        "cluster_id": "C054",
+        "density_rank": 54,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.4,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.455,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.409631,
+          33.638875
+        ]
+      },
+      "properties": {
+        "name": "C055",
+        "cluster_id": "C055",
+        "density_rank": 55,
+        "zone_count": 6,
+        "core_zone_count": 3,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.33,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 2.156,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.449087,
+          33.989711
+        ]
+      },
+      "properties": {
+        "name": "C056",
+        "cluster_id": "C056",
+        "density_rank": 56,
+        "zone_count": 6,
+        "core_zone_count": 4,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 4.33,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 2.104,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.773291,
+          35.767176
+        ]
+      },
+      "properties": {
+        "name": "C057",
+        "cluster_id": "C057",
+        "density_rank": 57,
+        "zone_count": 6,
+        "core_zone_count": 3,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.33,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 2.314,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.832915,
+          28.908452
+        ]
+      },
+      "properties": {
+        "name": "C058",
+        "cluster_id": "C058",
+        "density_rank": 58,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.2,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.494,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.607764,
+          33.530677
+        ]
+      },
+      "properties": {
+        "name": "C059",
+        "cluster_id": "C059",
+        "density_rank": 59,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.2,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.472,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.084319,
+          33.639115
+        ]
+      },
+      "properties": {
+        "name": "C060",
+        "cluster_id": "C060",
+        "density_rank": 60,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.2,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.68,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.353206,
+          35.020864
+        ]
+      },
+      "properties": {
+        "name": "C061",
+        "cluster_id": "C061",
+        "density_rank": 61,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.2,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.56,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.87058,
+          36.818635
+        ]
+      },
+      "properties": {
+        "name": "C062",
+        "cluster_id": "C062",
+        "density_rank": 62,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.2,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.537,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.117054,
+          35.714999
+        ]
+      },
+      "properties": {
+        "name": "C063",
+        "cluster_id": "C063",
+        "density_rank": 63,
+        "zone_count": 6,
+        "core_zone_count": 3,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.17,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 2.422,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.783538,
+          32.48461
+        ]
+      },
+      "properties": {
+        "name": "C064",
+        "cluster_id": "C064",
+        "density_rank": 64,
+        "zone_count": 6,
+        "core_zone_count": 2,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 4.0,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.832,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.83636,
+          28.96594
+        ]
+      },
+      "properties": {
+        "name": "C065",
+        "cluster_id": "C065",
+        "density_rank": 65,
+        "zone_count": 5,
+        "core_zone_count": 1,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 4.0,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.634,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.986101,
+          30.268986
+        ]
+      },
+      "properties": {
+        "name": "C066",
+        "cluster_id": "C066",
+        "density_rank": 66,
+        "zone_count": 5,
+        "core_zone_count": 2,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 4.0,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.377,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.18218,
+          35.705299
+        ]
+      },
+      "properties": {
+        "name": "C067",
+        "cluster_id": "C067",
+        "density_rank": 67,
+        "zone_count": 5,
+        "core_zone_count": 1,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 4.0,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.613,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.722004,
+          31.354267
+        ]
+      },
+      "properties": {
+        "name": "C068",
+        "cluster_id": "C068",
+        "density_rank": 68,
+        "zone_count": 5,
+        "core_zone_count": 1,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 3.8,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.805,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.809512,
+          34.552498
+        ]
+      },
+      "properties": {
+        "name": "C069",
+        "cluster_id": "C069",
+        "density_rank": 69,
+        "zone_count": 5,
+        "core_zone_count": 1,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 3.8,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.605,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.275693,
+          36.239131
+        ]
+      },
+      "properties": {
+        "name": "C070",
+        "cluster_id": "C070",
+        "density_rank": 70,
+        "zone_count": 5,
+        "core_zone_count": 1,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 3.8,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.869,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.553997,
+          32.859178
+        ]
+      },
+      "properties": {
+        "name": "C071",
+        "cluster_id": "C071",
+        "density_rank": 71,
+        "zone_count": 6,
+        "core_zone_count": 2,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 3.67,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.863,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.877336,
+          36.481119
+        ]
+      },
+      "properties": {
+        "name": "C072",
+        "cluster_id": "C072",
+        "density_rank": 72,
+        "zone_count": 3,
+        "core_zone_count": 1,
+        "border_zone_count": 2,
+        "mean_zones_within_eps": 3.67,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.217,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.537968,
+          36.669899
+        ]
+      },
+      "properties": {
+        "name": "C073",
+        "cluster_id": "C073",
+        "density_rank": 73,
+        "zone_count": 4,
+        "core_zone_count": 1,
+        "border_zone_count": 3,
+        "mean_zones_within_eps": 3.5,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.575,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.545483,
+          36.275872
+        ]
+      },
+      "properties": {
+        "name": "C074",
+        "cluster_id": "C074",
+        "density_rank": 74,
+        "zone_count": 2,
+        "core_zone_count": 1,
+        "border_zone_count": 1,
+        "mean_zones_within_eps": 3.5,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 0.567,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.407271,
+          32.390239
+        ]
+      },
+      "properties": {
+        "name": "C075",
+        "cluster_id": "C075",
+        "density_rank": 75,
+        "zone_count": 5,
+        "core_zone_count": 1,
+        "border_zone_count": 4,
+        "mean_zones_within_eps": 3.0,
+        "max_zones_within_eps": 5,
+        "cluster_radius_km": 1.906,
+        "eps_km": 2.0,
+        "min_samples": 5,
+        "marker-color": "#3b82f6",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
+
